@@ -1,0 +1,1 @@
+<p>Chúc mừng bạn đã mua hàng thành công, chúng tôi sẽ liên hệ sớm với bán</p>
